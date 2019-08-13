@@ -990,11 +990,10 @@ information about Freenet.
 ## [Suggestions](https://freenet.uservoice.com/)
 
 ## Get Support
-If you need help installing Freenet for the first time, or have trouble using Freenet and can't find an answer to
-your problem in the [Wiki][wiki_link] especially in the [Installing Freenet][install_link] and [FAQ][faq_link]
-pages, please create a new discussion on our support forum.
+You can find information about installing Freenet in the [Wiki][wiki_link]
+especially in the [Installing Freenet][install_link] and [FAQ][faq_link].
 
-If Freenet is already installed you may also get support in [FMS][fms_link] forum.
+When Freenet is already installed you may get support in [FMS][fms_link] forum.
 
 When writing your support request, please make sure you include a full description of the problem, your current version of Java, your operating system and current Freenet version.
 
