@@ -5,17 +5,21 @@ Install the required packages
 
     sudo apt-get install python-pip python-virtualenv gettext optipng libjpeg-turbo-progs
 
-Using a python virtualenv is recommended.
+Using a python (2.7) virtualenv is recommended.
 
 Create a virtualenv
 
-    virtualenv pelican_env
+    virtualenv --python=/path/to/python2.7 pelican_env
 
 Use virtualenv
 
     source pelican_env/bin/activate
 
 Install Python modules
+    
+    // upgrade pip
+    pip install pip --upgrade
+    pip install setuptools --upgrade
 
     pip install -r requirements.txt
 
